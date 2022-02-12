@@ -1,0 +1,41 @@
+body {
+    background-color: #E9ECEF;
+    margin: 0;
+    padding: 0;
+
+}
+.nb{
+    color: #E9ECEF;
+    border: none;
+   
+    
+}
+a:hover{
+    color:#878c92;
+}
+.card{
+margin-bottom: 20rem;
+width: 18rem;
+height:18rem;
+}
+.card-text{
+    color: red;
+}
+h2{
+    text-align: center;
+    color:red;
+}
+p{
+    text-align: center;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
+h4{
+    text-align: center;
+    color: sandybrown;
+}
+.hakkimizda{
+    padding: 5%;
+}
